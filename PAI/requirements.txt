@@ -1,0 +1,6 @@
+matplotLib
+scikit-image
+customtkinter
+tensorflow
+scikit-learn
+pandas
