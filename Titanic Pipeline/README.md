@@ -56,7 +56,6 @@ An interactive dashboard was built using **Looker Studio**, allowing users to vi
 - Enables dynamic insights and storytelling from the Titanic dataset.
 
 (https://lookerstudio.google.com/reporting/f3e03261-4bd0-47eb-938f-497b52164814)
-![dashTitanic](Titanic Pipeline/Predictive_Survival_Analysis_–_Titanic.pdf)
 
 ---
 
