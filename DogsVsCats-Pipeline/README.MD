@@ -19,11 +19,11 @@ The model achieved the following performance:
 | F1-Score      | 56.4% | 74.7% |         |
 | Accuracy      |       |       | 68.0%   |
 
-## Training Performance
+## Training Performance:
 
 ### Accuracy and Loss Graphs
-![acurracy_loss_graphs](DogsVsCats-Pipeline/accuracy_loss.png)
+![acurracy_loss_graphs](https://github.com/QueziaSuzana/Data-Science/blob/main/DogsVsCats-Pipeline/accuracy_loss.png)
 
-```python
-# Example code to display images in Markdown
-![Training Metrics](DogsVsCats-Pipeline/confusion_matrix.png)
+
+# Confusion Matrix
+![Training Metrics](https://github.com/QueziaSuzana/Data-Science/blob/main/DogsVsCats-Pipeline/confusion_matrix.png)
