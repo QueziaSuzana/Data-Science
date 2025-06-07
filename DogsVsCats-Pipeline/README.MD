@@ -3,6 +3,9 @@
 ## Project Overview
 This project implements a Convolutional Neural Network (CNN) to classify images of cats and dogs. The model was developed using TensorFlow/Keras and includes data preprocessing, augmentation, and evaluation components.
 
+![dataset](https://github.com/QueziaSuzana/Data-Science/blob/main/DogsVsCats-Pipeline/dataset.png)
+
+
 ## Key Features
 - Image preprocessing and augmentation
 - Custom CNN architecture with regularization
