@@ -22,8 +22,8 @@ The model achieved the following performance:
 ## Training Performance
 
 ### Accuracy and Loss Graphs
-![Training Metrics](https://github.com/yourusername/your-repo/raw/main/images/training_metrics.png)
+![acurracy_loss_graphs](DogsVsCats-Pipeline/accuracy_loss.png)
 
 ```python
 # Example code to display images in Markdown
-![Alt Text](https://github.com/username/repo/raw/main/path/to/image.png)
+![Training Metrics](DogsVsCats-Pipeline/confusion_matrix.png)
