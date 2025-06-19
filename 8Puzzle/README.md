@@ -73,7 +73,7 @@ An interactive dashboard was created in **Looker Studio** to visualize and compa
 - A* execution time by heuristic
 - Solution depth and number of moves
 
-*(Insert public dashboard link here if desired.)*
+![dash8puzzle](8Puzzle/Puzzle_-_Analysis_of_the_Experimental_Results.pdf)
 
 ---
 
