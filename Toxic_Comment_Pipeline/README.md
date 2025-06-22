@@ -61,7 +61,7 @@ The project uses a **multi-label classification** approach since a single commen
 
 ## 📁 Repository Structure
 Toxic_Comment_Pipeline/
-│
+
 ├── class_counts_comparison.csv # Class distribution per model
 ├── classification_metrics.csv # Model performance metrics
 ├── Toxic_Comment_Analysis.pdf # Looker Studio dashboard
@@ -77,6 +77,7 @@ The visual dashboard presents:
 - Class distribution (pie charts)
 - Metrics comparison
 - Helps identify class imbalance and model behavior on minority classes like `threat` and `identity_hate`
+  (https://lookerstudio.google.com/reporting/b1baf6d1-4c36-44eb-96fc-43795be3f034) 
 
 ---
 
