@@ -1,0 +1,7 @@
+class,NaiveBayes,LogisticRegression,RandomForest
+toxic,4968,6959.0,3579
+severe_toxic,265,286.0,91
+obscene,2542,3779.0,2139
+threat,0,133.0,54
+insult,2178,3561.0,1765
+identity_hate,135,269.0,86
